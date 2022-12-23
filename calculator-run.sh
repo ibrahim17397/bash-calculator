@@ -1,7 +1,7 @@
 #!/bin/bash
-source ./arithmetic.fun
-source ./scientific.fun
-source ./programmer.fun
+source ./arithmetic-fun.sh
+source ./scientifi.fun.sh
+source ./programmer-fun.sh
 
 #The Main Menu#
 function main_menu(){
